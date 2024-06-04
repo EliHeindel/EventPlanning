@@ -1,0 +1,14 @@
+C:\Users\heind\EventPlanning\bin\Debug\net8.0\EventPlanning.exe
+C:\Users\heind\EventPlanning\bin\Debug\net8.0\EventPlanning.deps.json
+C:\Users\heind\EventPlanning\bin\Debug\net8.0\EventPlanning.runtimeconfig.json
+C:\Users\heind\EventPlanning\bin\Debug\net8.0\EventPlanning.dll
+C:\Users\heind\EventPlanning\bin\Debug\net8.0\EventPlanning.pdb
+C:\Users\heind\EventPlanning\obj\Debug\net8.0\EventPlanning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heind\EventPlanning\obj\Debug\net8.0\EventPlanning.AssemblyInfoInputs.cache
+C:\Users\heind\EventPlanning\obj\Debug\net8.0\EventPlanning.AssemblyInfo.cs
+C:\Users\heind\EventPlanning\obj\Debug\net8.0\EventPlanning.csproj.CoreCompileInputs.cache
+C:\Users\heind\EventPlanning\obj\Debug\net8.0\EventPlanning.dll
+C:\Users\heind\EventPlanning\obj\Debug\net8.0\refint\EventPlanning.dll
+C:\Users\heind\EventPlanning\obj\Debug\net8.0\EventPlanning.pdb
+C:\Users\heind\EventPlanning\obj\Debug\net8.0\EventPlanning.genruntimeconfig.cache
+C:\Users\heind\EventPlanning\obj\Debug\net8.0\ref\EventPlanning.dll
